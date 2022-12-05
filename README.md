@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 My name is opp1poika and I am on my path becoming a great coder/developer/mathematician.
 
-Here is a list of my achievements which can be measured as numerical results.
+The following lists speaks for my qualifications.
 
 <details>
 <summary>List</summary>
