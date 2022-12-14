@@ -28,4 +28,6 @@ The following lists speaks for my qualifications.
 
 </details>
 
+I achieved the highest score in the Finnish advanced mathematics exam (S2022).
+
 <!-- Add more details later -->
